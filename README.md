@@ -1,1 +1,1 @@
-# AI_Image_Classifeir
+# AI-image-classifier
